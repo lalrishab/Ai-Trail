@@ -1,0 +1,5 @@
+{
+  "name": "Emotional Text-to-Speech",
+  "description": "A web application that uses the Gemini API to convert text into speech with a variety of emotional expressions like happy, sad, or frightened.",
+  "requestFramePermissions": []
+}
